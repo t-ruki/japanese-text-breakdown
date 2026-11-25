@@ -1,0 +1,9 @@
+{
+  "id": "japanese-text-breakdown",
+  "name": "Japanese Text Breakdown",
+  "version": "0.1.0",
+  "minAppVersion": "1.15.1",
+  "description": "Count the characters, lines and sentences of the open note or selection, with hiragana, katakana and kanji counted separately. Shows numbers only.",
+  "author": "sitebuild-note",
+  "isDesktopOnly": false
+}

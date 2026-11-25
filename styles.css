@@ -1,0 +1,5 @@
+/* Japanese Text Breakdown: the breakdown modal shows plain text; wrap long lines and allow copying. */
+.jp-text-breakdown {
+  white-space: pre-wrap;
+  user-select: text;
+}
